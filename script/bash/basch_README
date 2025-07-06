@@ -1,0 +1,36 @@
+# Bash-skript – 2072 Sørvest-Entreprise
+
+Denne mappen inneholder Bash-skript for automatisering og støtte til prosesser i 2072 Sørvest-Entreprise.  
+Skriptene kan brukes til bygging, oppsett, datahåndtering eller annen systemadministrasjon.
+
+---
+
+## 📌 Formål
+- Støtte daglig drift gjennom automatisering
+- Forenkle gjentakende oppgaver (f.eks. rapportgenerering, filopprydding)
+- Bidra til standardiserte prosesser i prosjekt- og servicearbeid
+
+---
+
+## 📂 Struktur
+Alle Bash-skript legges her med tilhørende kommentarer i toppen av hver fil som forklarer:
+- Formål
+- Forventede parametere
+- Bruksmåte
+
+Eksempel på filnavn:  
+---
+
+## 🚀 Bruk
+Kjør skriptene fra terminal:
+```bash
+bash <skriptnavn>.sh
+chmod +x <skriptnavn>.sh
+./<skriptnavn>.sh
+
+---
+
+🚀 **Neste steg**
+👉 Kopier dette inn som `script/bash/README.md`.  
+👉 Si fra om du vil at jeg lager eksempel på et grunnleggende Bash-skript til mappen! 🚀  
+
