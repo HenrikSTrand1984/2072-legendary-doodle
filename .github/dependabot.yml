@@ -1,0 +1,25 @@
+version: 2
+updates:
+  # Overvåk GitHub Actions workflows (når du setter opp actions)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Overvåk Python-scripts hvis dere legger til kalkulasjonsscripts
+  - package-ecosystem: "pip"
+    directory: "/scripts/kalkulasjon/"
+    schedule:
+      interval: "weekly"
+
+  # Overvåk Node/NPM hvis dere legger til automatiseringsscripts (valgfritt)
+  - package-ecosystem: "npm"
+    directory: "/scripts/automatisering/"
+    schedule:
+      interval: "weekly"
+
+  # Overvåk Docker-filer hvis dere på sikt bruker container-teknologi
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
