@@ -78,3 +78,14 @@ Repoet linker og henviser til eksterne systemer som:
 
 ---
 
+## 🔒 Sikkerhet og sårbarhetsrapportering
+
+Dette repoet følger et aktivt sikkerhetsregime for å ivareta integritet og trygg bruk:
+
+- Vi har en [Security policy](./SECURITY.md) som beskriver hvordan sårbarheter skal rapporteres.
+- Sårbarheter kan meldes via e-post til **henrik-l.strand@gk.no**
+- Private rapporter kan også sendes direkte via GitHub dersom funksjonen *Private Vulnerability Reporting* er aktivert.
+- Secret scanning er aktivert for å fange opp uønsket deling av hemmeligheter (API-nøkler, passord etc.)
+- Code scanning og Dependabot settes opp for å overvåke eventuelle sårbarheter i kode og avhengigheter.
+
+Vi setter stor pris på alle bidrag til å holde dokumentasjonen og eventuelle scripts sikre.
