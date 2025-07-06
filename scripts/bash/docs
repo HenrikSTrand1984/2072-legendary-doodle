@@ -1,0 +1,4 @@
+script/
+└── bash/
+    ├── eksempel_skript.sh
+    └── ...
