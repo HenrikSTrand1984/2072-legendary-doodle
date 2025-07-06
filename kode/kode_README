@@ -1,0 +1,47 @@
+# Kode – 2072 Sørvest-Entreprise
+
+Denne mappen inneholder strukturert og gjenbrukbar kode utviklet for 2072 Sørvest-Entreprise.  
+Koden skal støtte drift, analyse, risikoarbeid og forbedringsprosesser i avdelingen.
+
+---
+
+## 📌 Formål
+- Samle dokumentert og vedlikeholdbar kode på ett sted
+- Skille mellom kjernesystemer, analyser og automatisering
+- Underbygge standardisering og effektivisering av arbeidsprosesser
+
+---
+
+## 📂 Struktur
+
+| Mappe | Innhold |
+|--------|---------|
+| `monte_carlo/` | Python-kode for Monte Carlo-simulering av prosjektkostnad, tid mv. |
+| `risikoanalyse/` | Moduler for risikoanalyse og vurdering (f.eks. FMEA, scenarioanalyse) |
+| `...` | Andre verktøy og metoder utviklet for 2072 Sørvest-Entreprise |
+
+---
+
+## 📌 Prinsipper for kode i denne mappen
+- Koden skal være modulær, dokumentert og etterprøvbar
+- Koden skal være tilpasset konsernets krav og gjeldende standarder (ISO 9001, ISO 31000, ISO 45001)
+- All kode skal ha tilhørende `README.md` som beskriver bruksområde og avhengigheter
+- Eksempler og testdata legges i egne undermapper (f.eks. `eksempler/`)
+
+---
+
+## 🚀 Bruk
+- Gå til den aktuelle modulen og følg instruksjonene i `README.md`
+- Sørg for å ha riktige avhengigheter installert før kjøring
+- Endringer i kode skal dokumenteres i commit-meldinger og oppdateres i tilhørende `README.md`
+
+---
+
+## 📌 Ansvar
+- Hovedansvar: Avdelingsleder / utpekt teknisk ansvarlig
+- Vedlikehold: Utviklere og fagansvarlige som eier koden
+
+---
+
+## Endringslogg
+- **2024-07-06** – Første versjon opprettet
