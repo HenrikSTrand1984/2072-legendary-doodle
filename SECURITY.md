@@ -1,24 +1,36 @@
 # Sikkerhetspolicy – 2072 Sørvest-Entreprise dokumentasjonsrepo
 
 ## Rapportering av sårbarheter
-Dersom du oppdager en sikkerhetssårbarhet i dette repoet (for eksempel i scripts, dokumentasjon eller konfigurasjonsfiler), ber vi deg:
+Hvis du oppdager en potensiell sårbarhet i dette repoet:
+1️⃣ Ikke publiser funnet offentlig.  
+2️⃣ Send en e-post til:  
+📧 **henrik-l.strand@gk.no**
 
-1️⃣ Ikke publiser sårbarheten offentlig.  
-2️⃣ Send en melding til følgende kontaktperson/epost: henrik-l.strand@gk.no
-3️⃣ Beskriv problemet tydelig, inkludert:
-- Hva som er sårbart
-- Hvordan sårbarheten ble oppdaget
-- Eventuell påvirkning
+3️⃣ Inkluder så mye informasjon som mulig:
+- En tydelig beskrivelse av sårbarheten
+- Hvordan den ble oppdaget
+- Mulig påvirkning
+- Forslag til løsning (hvis mulig)
 
-## Ansvarlig håndtering
-Vi vil:
-- Bekrefte mottak innen rimelig tid
-- Vurdere og prioritere sårbarheten
-- Holde deg oppdatert på fremdrift
-- Takke bidraget og kreditere dersom ønskelig
+---
 
-## Gjelder
-Denne policyen gjelder for alle filer og scripts i dette repoet.
+## Håndtering
+- Vi bekrefter mottak innen **3 arbeidsdager**
+- Vi gir status på vurdering innen **10 arbeidsdager**
+- Vi holder deg orientert om fremdrift
+- Vi takker for varsler og tilbyr kredit hvis ønskelig
+
+---
+
+## Gjelder for
+- Alle filer i dette repoet: dokumentasjon, scripts, konfigurasjon
+
+---
+
+## Private rapporter
+- Vi anbefaler at du også bruker **GitHub Private Vulnerability Reporting** hvis aktivert.
+
+---
 
 ## Merknad
-Repoet skal normalt **ikke inneholde kode, konfigurasjon eller dokumenter som utgjør sikkerhetsrisiko**, men vi setter pris på varsler ved funn.
+Repoet skal normalt ikke inneholde sensitiv kode eller konfigurasjon, men vi setter pris på varsler ved funn.
